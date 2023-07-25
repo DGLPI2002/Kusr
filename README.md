@@ -1,4 +1,4 @@
-# labo2
+# kurs
 
 A new Flutter project.
 
